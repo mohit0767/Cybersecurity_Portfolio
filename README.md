@@ -9,7 +9,7 @@ The goal of this project is to document practical skills in network security, lo
 ## 📂 Project Showcase
 
 ### 1. Governance, Risk, and Compliance (GRC)
-  * [**Internal Security Audit - Botium Toys**](./botium-toys-audit.md)
+  * [**Internal Security Audit - Botium Toys**](./security_audit.pdf)
   * **Objective:** Evaluated a simulated corporate infrastructure against the NIST Cybersecurity Framework (CSF).
   * **Skills Learned:** Asset management, risk identification, administrative security controls, and remediation strategy documentation.
   * **Tools Used:** NIST CSF, Risk Assessment Matrices.
