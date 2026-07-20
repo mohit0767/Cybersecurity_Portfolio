@@ -8,7 +8,7 @@ The goal of this project is to document practical skills in network security, lo
 
 ## 📂 Project Showcase
 
-### 1. Governance, Risk, and Compliance (GRC) & Technical Remediation
+### 1. Enterprise Security Posture & Data Compliance Audit
 * [**Phase 1: Internal Security Compliance Audit - Botium Toys**](./security_audit.pdf)
 * [**Phase 2: Database Forensic Log Analysis (SQL)**](./Apply%20filters%20to%20SQL%20queries.pdf)
 * [**Phase 3: Operating System Hardening & Access Control (Linux)**](./File%20permissions%20in%20Linux.pdf)
@@ -16,7 +16,7 @@ The goal of this project is to document practical skills in network security, lo
 * **Skills Learned:** Corporate governance framework mapping, database forensic analysis, identifying indicators of compromise (IoCs), evaluating permissions strings, and applying user access restrictions.
 * **Tools Used:** Linux CLI (`chmod`), SQL (MariaDB), NIST CSF, Risk Assessment Matrices, IAM Access Control Frameworks.
 
-### 2. Network Security & Incident Response
+### 2. Incident Report Analysis
 * [**Network Security Incident Report: DoS Threat Analysis**](./Incident_report_analysis.pdf)
 * **Objective:** Analyzed a simulated Distributed Denial of Service (DoS) ICMP flood attack to construct a defensive containment and recovery pipeline.
 * **Skills Learned:** Incident response mapping, firewall rate-limiting rule configuration, network log analysis, and critical infrastructure mitigation positioning.
