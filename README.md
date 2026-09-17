@@ -21,3 +21,10 @@ The goal of this project is to document practical skills in network security, lo
 * **Objective:** Analyzed a simulated Distributed Denial of Service (DoS) ICMP flood attack to construct a defensive containment and recovery pipeline.
 * **Skills Learned:** Incident response mapping, firewall rate-limiting rule configuration, network log analysis, and critical infrastructure mitigation positioning.
 * **Tools Used:** Network Monitoring Software, Firewalls, IDS/IPS Systems, NIST Incident Response Framework.
+
+### 3. Enterprise Database Vulnerability Assessment & Risk Remediation
+
+* [Vulnerability Assessment Report: Access Control & Risk Analysis](./Vulnerability%20assessment%20report.pdf)
+* **Objective:** Conducted a comprehensive access control risk assessment on a Linux-hosted MySQL database server using NIST SP 800-30 Rev. 1, identifying critical threat vectors and architecting an enterprise remediation strategy.
+* **Skills Learned:** Quantitative risk modeling ($3 \times 3$ likelihood/severity scoring), defense-in-depth remediation planning, identity and access management (IAM) enforcement, and centralized intrusion detection design.
+* **Tools Used:** NIST SP 800-30 Rev. 1, Linux CLI, MySQL, RBAC, MFA, TLS Encryption, SIEM Technology.
