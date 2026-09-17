@@ -24,7 +24,7 @@ The goal of this project is to document practical skills in network security, lo
 
 ### 3. Enterprise Database Vulnerability Assessment & Risk Remediation
 
-* [Vulnerability Assessment Report: Access Control & Risk Analysis](./Vulnerability_assessment_report.pdf)
+* [Vulnerability Assessment Report: Access Control & Risk Analysis](./vulnerability_assessment.pdf)
 * **Objective:** Conducted a comprehensive access control risk assessment on a Linux-hosted MySQL database server using NIST SP 800-30 Rev. 1, identifying critical threat vectors and architecting an enterprise remediation strategy.
 * **Skills Learned:** Quantitative risk modeling ($3 \times 3$ likelihood/severity scoring), defense-in-depth remediation planning, identity and access management (IAM) enforcement, and centralized intrusion detection design.
 * **Tools Used:** NIST SP 800-30 Rev. 1, Linux CLI, MySQL, RBAC, MFA, TLS Encryption, SIEM Technology.
